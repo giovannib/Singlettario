@@ -1,0 +1,4 @@
+Singlettario
+============
+
+App singlettario
